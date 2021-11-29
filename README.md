@@ -12,3 +12,4 @@ olması unit testlerin yazımını kolaylaştırır ve doğru test yazımına ol
 
 Uygulamamız matematik işlemlerinin yapıldığı bir kütüphane projesi ve bunu test eden unit test projesini içerir.
 Microsoft.VisualStudio.TestTools.UnitTesting kütüphanesi kullanılarak oluşturulmuştur.
+Uygulamada unit testin doğru çalıştığını tespit için, matematik işlemlerinden, çarpma işlemi bilinçli şekilde yanlış yazılmıştır.
